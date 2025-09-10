@@ -1,0 +1,4 @@
+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
+
+git remote add origin https://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@github.com/randdomName11/experience.git
+tufyuktrffh
